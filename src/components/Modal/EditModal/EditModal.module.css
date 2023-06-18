@@ -1,0 +1,16 @@
+.modalCont {
+  background-color: lightcoral;
+  border: 1px solid;
+  width: 400px;
+  height: 400px;
+  margin: 40px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: start;
+  padding: 1rem;
+}
+
+.selectCont {
+  display: flex;
+}
